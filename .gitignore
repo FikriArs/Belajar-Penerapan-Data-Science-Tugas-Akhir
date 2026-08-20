@@ -1,0 +1,19 @@
+# Environments
+venv/
+env/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Agent files (Optional)
+Project_Criteria_and_Plan.md
