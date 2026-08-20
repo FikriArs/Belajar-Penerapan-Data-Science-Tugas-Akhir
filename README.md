@@ -34,7 +34,7 @@ Password: root123
 ## Menjalankan Sistem Machine Learning
 Prototype sistem machine learning dikembangkan menggunakan Streamlit. Sistem ini akan meminta user memasukkan data-data akademik dan latar belakang mahasiswa, lalu model akan mengembalikan prediksi apakah mahasiswa tersebut berpotensi Lulus (Graduate) atau Putus Sekolah (Dropout).
 
-Tautan prototype (Streamlit Community Cloud): [Streamlit Cloud URL Here]
+Tautan prototype (Streamlit Community Cloud): [https://belajar-penerapan-data-science-tugas-akhir-fikriars.streamlit.app/](https://belajar-penerapan-data-science-tugas-akhir-fikriars.streamlit.app/)
 
 Cara menjalankan prototype secara lokal:
 ```bash
